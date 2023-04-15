@@ -1,16 +1,41 @@
-### Hi there 👋
+<p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px"></p>
 
-<!--
-**Charles-tech19/Charles-tech19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="Center"> Hola <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , Soy Charls G. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨 Acerca de mí :
+
+Soy un entusiasta 👨 💻 de la informática, actualmente en el último año en Alura e Idat 👨 🎓
+
+- 🔭 Actualmente estoy en descanso a full Estudios
+- 🌱 Actualmente estoy aprendiendo sobre Java, C#, Spring, Sql.
+- 👯 Estoy En practicas de desarrollo web
+- 🤔 Estoy deseando aprender más sobre Web Dev y JavaScript. 
+- 📫 Cómo llegar a mí: &nbsp;&nbsp;n.r.c.guerrero@gmail.com
+
+- ⚡ Dato curioso: Insistente en lo que hago...!
+<hr>
+
+### 🛠️ Idiomas y herramientas:
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50width="50" height="50""/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain.svg" title="Mysql" alt="git" width="50" height="50"/>&nbsp;
+</div>
+
+<hr>
+
+### Algunas estadísticas sobre Raghav (solo público)
+<p align="center" >
+<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&show_icons=true&theme=merko"  > </p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/raghav-byte/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/_raghavit" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@_raghavit" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://dev.to/raghavbyte" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@raghavbyte" height="25" width="25" /></a> &nbsp;&nbsp;
+<a href="https://instagram.com/raghav_shukl" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
+</p>
+
+
+⭐️ De [Charles-tech19](https://github.com/Charles-tech19)
