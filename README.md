@@ -12,7 +12,7 @@ Soy un entusiasta 👨 💻 de la informática, actualmente en el último año e
 - 🌱 Actualmente estoy aprendiendo sobre Java, C#, Spring, Sql.
 - 👯 Estoy En practicas de desarrollo web
 - 🤔 Estoy deseando aprender más sobre Web Dev y JavaScript. 
-- 📫 Cómo llegar a mí: &nbsp;&nbsp;n.r.c.guerrero@gmail.com
+
 
 - ⚡ Dato curioso: Insistente en lo que hago...!
 <hr>
@@ -20,8 +20,6 @@ Soy un entusiasta 👨 💻 de la informática, actualmente en el último año e
 ### 🛠️ Idiomas y herramientas:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50width="50" height="50""/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain.svg" title="Mysql" alt="git" width="50" 
   height="50"/>&nbsp;
   <img src="https://cdn.svgporn.com/logos/html-5.svg" title="Html 5" alt="git" width="50" height="50"/>&nbsp;
