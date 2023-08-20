@@ -9,7 +9,7 @@
 Soy un entusiasta 👨 💻 de la informática, actualmente en el último año en Alura e Idat 👨 🎓
 
 - 🔭 Actualmente estoy en descanso a full Estudios
-- 🌱 Actualmente estoy aprendiendo sobre Java, C#, Spring, Sql.
+- 🌱 Actualmente estoy aprendiendo sobre Java, C#, MySql.
 - 👯 Estoy En practicas de desarrollo web
 - 🤔 Estoy deseando aprender más sobre Web Dev y JavaScript. 
 
